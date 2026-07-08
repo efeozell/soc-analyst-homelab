@@ -28,17 +28,17 @@ I Simulate the Attacks if you want to see incidents reports you can move "incide
 
 Attack 1 - Nmap Scan & Brute Force Attack Simulation
 
-# Target Architecture + Step 1 - Download Windows Server 2022
+# Target Architecture
 
 ## Target Architecture
 
-![image.png](https://github.com/efeozell/soc-analyst-homelab/blob/main/HomeLab%20-%20SOC%20Analyst%20HomeLab%20Setup%20%26%20Installation/Target%20Architecture%20%2B%20Step%201%20-%20Download%20Windows%20Se/image.png)
+![image.png](./HomeLab%20-%20SOC%20Analyst%20HomeLab%20Setup%20&%20Installation/Step%201%20-%20Target%20Archirecture%20+%20Download%20Windows%20Server%202022/image.png)
 
 I aim this architecture to setup my homelab. After i decide the architecture i need to determine VM source Plan
 
 ## VM Source Plan
 
-![image.png](https://github.com/efeozell/soc-analyst-homelab/blob/main/HomeLab%20-%20SOC%20Analyst%20HomeLab%20Setup%20%26%20Installation/Target%20Architecture%20%2B%20Step%201%20-%20Download%20Windows%20Se/image%201.png)
+![image.png](./HomeLab%20-%20SOC%20Analyst%20HomeLab%20Setup%20&%20Installation/Step%201%20-%20Target%20Archirecture%20+%20Download%20Windows%20Server%202022/image%201.png)
 
 ## My Current Situation
 

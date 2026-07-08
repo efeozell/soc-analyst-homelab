@@ -18,8 +18,8 @@ Cannot be accessed from outside world
 
 Go through VirtualBox and File → Tools → Network
 
-![image.png](Step%202%20-%20Create%20NAT%20Network/image.png)
+![image.png](image.png)
 
-![image.png](Step%202%20-%20Create%20NAT%20Network/image%201.png)
+![image.png](image%201.png)
 
 And then click the Apply button on bottom. Now i need to setup Windows Server 2022 VM, i already downloaded iso file on the prior step.

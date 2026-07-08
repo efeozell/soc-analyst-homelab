@@ -2,13 +2,13 @@
 
 ## Target Architecture
 
-![image.png](Target%20Architecture%20+%20Step%201%20-%20Download%20Windows%20Se/image.png)
+![image.png](image.png)
 
 I aim this architecture to setup my homelab. After i decide the architecture i need to determine VM source Plan
 
 ## VM Source Plan
 
-![image.png](Target%20Architecture%20+%20Step%201%20-%20Download%20Windows%20Se/image%201.png)
+![image.png](image%201.png)
 
 ## My Current Situation
 
@@ -32,6 +32,6 @@ URL: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
 With this URL, i download Windows Server 2022 ISO file
 
-![image.png](Target%20Architecture%20+%20Step%201%20-%20Download%20Windows%20Se/image%202.png)
+![image.png](image%202.png)
 
 Before the setup this on the VM i need to configure NAT Network.

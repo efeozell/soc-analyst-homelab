@@ -10,7 +10,7 @@ Download Forwarder.
 
 Go to Splunk Universal Forwarder page and download for Windows.
 
-![image.png](Step%209%20-%20Splunk%20Universal%20Forwarder%20Setup/image.png)
+![image.png](image.png)
 
 Execute downloaded .msi file.
 
@@ -24,9 +24,9 @@ IP: 127.0.0.1 (as it is on DC-01)
 Port: 9997
 6. Install
 
-![image.png](Step%209%20-%20Splunk%20Universal%20Forwarder%20Setup/image%201.png)
+![image.png](image%201.png)
 
-![image.png](Step%209%20-%20Splunk%20Universal%20Forwarder%20Setup/image%202.png)
+![image.png](image%202.png)
 
 After the setup forwarder for DC-01. I need to also install WIN 11. I am doing same steps again for WIN 11.
 
@@ -71,13 +71,13 @@ System → System Logs
 
 Sysmon → Deeply logs
 
-![image.png](Step%209%20-%20Splunk%20Universal%20Forwarder%20Setup/image%203.png)
+![image.png](image%203.png)
 
 Save this file and Restart forwarder.
 
 After saved conf file i can look at this settings work or not. To be sure and look logs i moved Splunk and filter by index=”wineventlog”
 
-![image.png](Step%209%20-%20Splunk%20Universal%20Forwarder%20Setup/image%204.png)
+![image.png](image%204.png)
 
 I done this step successfully. I collect logs from 2 machine with Splunk Forwarder and show with Splunk Enterprise.
 
