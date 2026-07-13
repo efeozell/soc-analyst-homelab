@@ -28,6 +28,8 @@ I Simulate the Attacks if you want to see incidents reports you can move "incide
 
 Attack 1 - Nmap Scan & Brute Force Attack Simulation
 
+Attack 2 - Kerberoasting Attack
+
 # Target Architecture
 
 ## Target Architecture
@@ -73,3 +75,9 @@ I aim this architecture to setup my homelab. After i decide the architecture i n
 8️⃣Step 8 - Splunk Setup.md
 
 9️⃣Step 9 - Splunk Universal Forwarder Setup.md
+
+☠️ Attack Simulation
+
+Attack 1 - Nmap Scan & Brute Force Attack Simulation
+
+Attack 2 - Kerberoasting Attack
