@@ -50,11 +50,11 @@ I aim this architecture to setup my homelab. After i decide the architecture i n
 
 ✅ Kali Linux already installed 
 
-❌ Windows Server 2022 (Domain Controller)
+✅ Windows Server 2022 (Domain Controller)
 
-❌ Splunk
+✅ Splunk
 
-❌ Sysmon
+✅ Sysmon
 
 ## See More
 
