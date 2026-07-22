@@ -30,6 +30,8 @@ Attack 1 - Nmap Scan & Brute Force Attack Simulation
 
 Attack 2 - Kerberoasting Attack
 
+Attack 3 - Pass-the-Hash (Lateral Movement)
+
 # Target Architecture
 
 ## Target Architecture
@@ -81,3 +83,5 @@ I aim this architecture to setup my homelab. After i decide the architecture i n
 Attack 1 - Nmap Scan & Brute Force Attack Simulation
 
 Attack 2 - Kerberoasting Attack
+
+Attack 3 - Pass-the-Hash (Lateral Movement)
