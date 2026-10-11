@@ -50,11 +50,11 @@ I aim this architecture to setup my homelab. After i decide the architecture i n
 
 ✅ Kali Linux already installed 
 
-❌ Windows Server 2022 (Domain Controller)
+✅ Windows Server 2022 (Domain Controller)
 
-❌ Splunk
+✅ Splunk
 
-❌ Sysmon
+✅ Sysmon
 
 ## See More
 
@@ -83,3 +83,5 @@ I aim this architecture to setup my homelab. After i decide the architecture i n
 Attack 1 - Nmap Scan & Brute Force Attack Simulation
 
 Attack 2 - Kerberoasting Attack
+
+Attack 3 - Pass-the-Hash (Lateral Movement)
