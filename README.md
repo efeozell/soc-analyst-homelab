@@ -1,8 +1,8 @@
 # HomeLab - SOC Analyst HomeLab
 
-Hi my name is Efe, i associate SOC Analyst and i currently interested SOC L1. Every single day i try to improve my self on the CyberSecurity and keep learning. To this i created projects, enter rooms, enter labs. 
+I'm Efe, an aspiring SOC analyst focused on Blue Team work. This repo documents the home lab I built to practice detection and investigation: Windows Server 2022 with Active Directory, a Windows 11 client, a Kali attacker, Sysmon and Splunk. I run simple attack scenarios against the lab, then investigate the logs and write up what I find.
 
-My goal is not only to enter or exit these rooms, but also to gain experience in these rooms, learn from each alert or analysis, improve my vision and change my perspective on events. Therefore, if you want to review my adventure of creating a physical homelab and what I did in this adventure, as well as this github repo where I explain these attack scenarios, you can follow them in order.
+The goal is not just to finish exercises, but to understand what each attack looks like in the logs and how to detect it. Follow the setup steps in order, then read the incident reports.
 
 You can follow by:
 
@@ -29,6 +29,8 @@ I Simulate the Attacks if you want to see incidents reports you can move "incide
 Attack 1 - Nmap Scan & Brute Force Attack Simulation
 
 Attack 2 - Kerberoasting Attack
+
+Attack 3 - Pass-the-Hash (Lateral Movement)
 
 # Target Architecture
 
